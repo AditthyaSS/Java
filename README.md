@@ -15,19 +15,6 @@ A clean and simple personal repository to track **everything I learn in Java** �
 
 ---
 
-## 📊 Progress Bar
-
-<div align="center">
-
-<!-- 100% working SVG progress bar -->
-
-<img src="https://img.shields.io/badge/Progress-25%25-yellow?style=for-the-badge" />
-<br>
-<em>Updates as I grow 🚀</em>
-</div>
-
----
-
 ## 📁 Contents
 
 * Basic Java programs
